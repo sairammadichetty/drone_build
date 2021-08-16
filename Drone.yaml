@@ -1,5 +1,5 @@
 #Drone CI File!
-#Commit Message: first Drone.....!!!!!
+#Commit Message: first Drone...!!!!!
 
 kind: pipeline
 type: kubernetes
